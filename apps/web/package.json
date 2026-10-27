@@ -21,7 +21,7 @@
     "@project-vault/eslint-config": "workspace:*",
     "@project-vault/tsconfig": "workspace:*",
     "@sveltejs/adapter-node": "^5.5.7",
-    "@sveltejs/kit": "^2.69.2",
+    "@sveltejs/kit": "^2.70.2",
     "@sveltejs/vite-plugin-svelte": "^7.2.0",
     "@tailwindcss/vite": "^4.3.2",
     "@testing-library/dom": "^10.4.1",
@@ -39,7 +39,7 @@
     "tailwindcss": "^4.3.2",
     "typescript": "^6.0.3",
     "vite": "^8.1.3",
-    "vitest": "^4.1.10"
+    "vitest": "^5.0.2"
   },
   "dependencies": {
     "@project-vault/shared": "workspace:*"
